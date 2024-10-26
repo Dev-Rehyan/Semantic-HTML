@@ -1,6 +1,5 @@
-# challenge-one
 
-##Description
+# Description
 In this project I have been adapt a websites HTML so that it meets accessibility standards. This was achieved by making sure that -
 
 - Semantic HTML elements can be found throughout the source code.
@@ -11,13 +10,15 @@ In this project I have been adapt a websites HTML so that it meets accessibility
 
 I updated HTML and CSS codes for a user friendly accessible webite.
 
-##Resources
+## Resources
 - Semantic HTML
 - Image Alt Attributes
 
-##Credits
+## Credits
 Dev-Rehyan
-/Users/rehyanrhoden/Desktop/Screenshot 2024-10-26 at 14.19.21.png
 
-##License
+<img width="1440" alt="Screenshot 2024-10-26 at 14 19 21" src="https://github.com/user-attachments/assets/6fc9cc94-f0f8-435d-aba6-d97f7df672e0">
+
+
+## License
 N/A
